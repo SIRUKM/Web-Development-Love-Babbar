@@ -1,0 +1,17 @@
+h1{
+    text-shadow: 3px 3px 3px grey;
+    text-shadow: 3px 3px 3px grey, 60px 60px 5px green;//multilple shadows
+}
+
+.box{
+    margin: 90px;
+    padding: 10px;
+    height: 200px;
+    width: 200px;
+    background-color: rgb(164, 164, 205);
+    border: 1px solid black;
+    box-shadow: 10px 10px;
+    box-shadow: 10px 10px grey;
+    box-shadow: 10px 10px 5px grey ,15px 15px 15px red;
+    box-shadow: -10px -10px 5px grey ,15px 15px 15px red;
+}
